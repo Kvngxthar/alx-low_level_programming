@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - starting point of code running 
+ * main - starting point of code running
  * prints alphabet in lowercase
  * Return: 0 is successful
  */
