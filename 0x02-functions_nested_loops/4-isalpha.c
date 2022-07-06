@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * * _isalpha - Check Main
  * @c: An input character
