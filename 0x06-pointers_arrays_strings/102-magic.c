@@ -14,7 +14,6 @@ int main(void)
 	   * - you are not allowed to use a
 	   * - you are not allowed to modify p
 	   * - only one statement
-	   * main - prints a-[2] = 98
 	   * - you are not allowed to code anything else than this line of code
 	   */
 
